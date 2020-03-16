@@ -1,3 +1,0 @@
-[submodule "client"]
-	path = client
-	url = /var/www/html/web/mern-shopping-list/client
